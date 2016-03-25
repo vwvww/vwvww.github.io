@@ -17,6 +17,7 @@ I'm interested in:
 
 and maybe I will write something about:
 
+- [x] This About page
 - [ ] Using emacs/magit as a git history browser
 - [ ] Using gulp to automate building/flashing/testing in openembedded development environment
 - [ ] Understanding/customizing your chromium scrollbar
