@@ -4,23 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is vwvww's blog.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-This page is about what I am interested in, and what I will write about.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-I'm interested in:
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-* Browsers(Chromium/Blink, Servo, etc)
-* WebApp Frameworks(Cordova, Electron)
-* Javascript
-* rust
 
-and maybe I will write something about:
-
-- [x] This About page
-- [ ] Using emacs/magit as a git history browser
-- [ ] Using gulp to automate building/flashing/testing in openembedded development environment
-- [ ] Understanding/customizing your chromium scrollbar
-- [ ] Managing jekyll-based blog using emacs
-
-and...more!
+[jekyll-organization]: https://github.com/jekyll
